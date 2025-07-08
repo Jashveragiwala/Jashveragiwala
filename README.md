@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=F71813&multiline=true&repeat=false&width=435&lines=Software+Developer)](https://git.io/typing-svg)
 
 ## 🧑 About Me
-Hey, I'm Jash Veragiwala, a final year Computer Science and Design student 👨🏽‍🎓 at the Singapore University of Technology and Design 🏛️.
+Hey, I'm Jash Veragiwala, a recent Computer Science and Design graduate 👨🏽‍🎓 from the Singapore University of Technology and Design 🏛️.
 
 I am passionate about software development, artificial intelligence, and creating impactful solutions. I enjoy working on challenging projects and exploring innovative ideas. 🤓
 
